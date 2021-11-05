@@ -1,8 +1,7 @@
-import 'package:demo1/bloc/profile_bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'widgets.dart';
-
+import 'package:demo1/profile/profile.dart';
 class NavigationBar extends StatelessWidget {
   const NavigationBar({Key? key}) : super(key: key);
 
