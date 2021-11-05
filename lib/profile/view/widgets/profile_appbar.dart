@@ -6,7 +6,7 @@ class ProfileAppBar extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.only(top: 56, left: 24, right: 19),
+      padding: const EdgeInsets.only(top: 46, right: 16, left: 16),
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [

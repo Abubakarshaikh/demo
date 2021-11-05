@@ -6,3 +6,4 @@ export 'events_news_feed.dart';
 export 'album_news_feed.dart';
 export 'files_news_feed.dart';
 export 'members_news_feed.dart';
+export 'navigation_bar.dart';

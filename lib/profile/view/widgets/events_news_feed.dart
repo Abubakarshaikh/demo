@@ -7,7 +7,7 @@ class EventsNewsFeed extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.only(left: 18, right: 18, top: 12),
+      padding: const EdgeInsets.only(top: 12, left: 16, right: 16),
       child: Column(
         mainAxisAlignment: MainAxisAlignment.start,
         crossAxisAlignment: CrossAxisAlignment.start,
